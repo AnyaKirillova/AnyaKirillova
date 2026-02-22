@@ -31,7 +31,7 @@ I turn messy data into clear insights and actionable recommendations.
 - **Time Management** – ability to prioritise tasks and meet deadlines effectively  
 - **Collaboration & Independence** – comfortable working in teams and independently  
 
-## 💭 I'm currently working on my Portfolio. 
+## 💭 I'm currently looking for a Data Analyst role. 
 
 ## 👀 Fun fact: I love 📚, ✈️, 👗, 🍝 and 🎬. 
 <!--
